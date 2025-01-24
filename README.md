@@ -1,6 +1,5 @@
 # Go CRUD API
 
-**Deskripsi Singkat:**
 Go CRUD API adalah sebuah project sederhana yang menggunakan bahasa pemrograman Go untuk menyediakan layanan CRUD (Create, Read, Update, Delete) pada data film. API ini saya buat untuk memahami cara membuat RESTful API menggunakan framework seperti Gorilla Mux.
 
 ---
